@@ -9,3 +9,6 @@ Tipsをまとめていきたい
         - 複数の同一パラメータをBind
         - 構造体の埋め込み
         - Bindを複数回実行
+- google-api-dwd
+    - G Suite Domain-Wide Delegationのためのサンプルコード
+
