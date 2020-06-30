@@ -11,4 +11,5 @@ Tipsをまとめていきたい
         - Bindを複数回実行
 - google-api-dwd
     - G Suite Domain-Wide Delegationのためのサンプルコード
-
+- appengine-metadata
+    - GAEのメタデータサーバ叩いてみるだけ
